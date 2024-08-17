@@ -4,5 +4,4 @@ This task is simple and related to the **Control-Buttons** task. After the butto
 
 ![new](https://github.com/user-attachments/assets/7ac96c1e-6ee9-44f0-82e0-9d2625aaabd6)
 
-![لقطة الشاشة 2024-08-09 185233](https://github.com/user-attachments/assets/9a9aaeec-68b2-4c9c-8d5d-8024397f1cca)
-
+![new2](https://github.com/user-attachments/assets/03d2fe45-62e0-4008-9e01-717cf1ebc98c)
